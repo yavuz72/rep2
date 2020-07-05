@@ -1,2 +1,3 @@
 'Yeni bir tekst file' 
 Bu satiri da github uzerinden ekledim
+bu da ucuncu satir, bakalim commit edince de lokal file update edecek mi?
